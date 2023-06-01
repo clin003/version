@@ -1,6 +1,11 @@
 golang app开发版本信息
 
-gitee.com/lyhuilin/version
+
+```bash
+go get gitee.com/lyhuilin/version
+#或
+go get github.com/clin003/version
+```
 
 Makefile中用脚本参数
 ```
