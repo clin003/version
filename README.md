@@ -7,6 +7,23 @@ go get gitee.com/lyhuilin/version
 go get github.com/clin003/version
 ```
 
+使用
+```golang
+package main
+
+import (
+	"fmt"
+
+	"gitee.com/lyhuilin/version"
+)
+
+func main() {
+	fmt.Println(version.APPVersion())
+	fmt.Println(version.APPVersionEx())
+	fmt.Println(version.APPDevInfo())
+}
+```
+
 Makefile中用脚本参数
 ```
 
