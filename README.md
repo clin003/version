@@ -1,6 +1,6 @@
 golang app开发版本信息
 
-
+引用模块
 ```bash
 go get gitee.com/lyhuilin/version
 #或
