@@ -1,4 +1,4 @@
-package constvar
+package version
 
 import (
 	"fmt"
